@@ -1,8 +1,17 @@
 ﻿Respected Jury
-We've introduced a practical approach to crowd surveillance and monitoring, leveraging a swarm drone system for optimal efficiency. Our strategy involves the utilization of Python libraries such as OpenCV for comprehensive crowd analysis, including the detection of suspicious objects or individuals, crowd counting, and crowd density estimation.
-To enhance our monitoring capabilities, we will incorporate libraries like arcpy to spatially divide the monitored area based on crowd parameters. This segmentation enables strategic deployment of swarm drones, each synchronized under the command of a master drone operating autonomously, managing the actions of the servant drones.
-This systematic crowd monitoring solution ensures both efficiency and effectiveness in addressing surveillance needs. Moreover, we are enhancing our drone's capabilities by integrating night vision, thermal cameras, terahertz imaging, and robust data security measures. These additions are designed to significantly elevate performance and address the complexities outlined in the problem statement.
-Highlighting our commitment, we have developed a test drone from scratch, showcasing our interest in drone technology. 
+
+We've introduced a practical approach to crowd surveillance and monitoring, leveraging a swarm drone system for optimal efficiency. 
+Our strategy involves the utilization of Python libraries such as OpenCV for comprehensive crowd analysis, including the detection of 
+suspicious objects or individuals, crowd counting, and crowd density estimation.
+
+To enhance our monitoring capabilities, we will incorporate libraries like arcpy to spatially divide the monitored area based on crowd parameters. 
+This segmentation enables strategic deployment of swarm drones, each synchronized under the command of a master drone operating autonomously, managing the actions of the servant drones.
+
+This systematic crowd monitoring solution ensures both efficiency and effectiveness in addressing surveillance needs. 
+Moreover, we are enhancing our drone's capabilities by integrating night vision, thermal cameras, terahertz imaging, and robust data security measures. 
+These additions are designed to significantly elevate performance and address the complexities outlined in the problem statement.
+Highlighting our commitment, we have developed a test drone from scratch, showcasing our interest in drone technology.
+
 We have an idea, relying on which we will be learning on all the skills and technologies needed to develop this idea into a prototype in the years to come and see it working.
 
 
